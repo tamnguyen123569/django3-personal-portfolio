@@ -1,0 +1,7 @@
+khoi tao: git init
+git status
+git add -A //add tat ca
+git commit -m "message "
+git add "duong dan file"
+git stash // tro ve phien ban commit truoc
+git checkout "name commit"// come back to last commit
